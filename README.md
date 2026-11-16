@@ -21,12 +21,11 @@ I'm currently studying ..
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limbuindra&theme=blueberry&show_icons=true&hide_border=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limbuindra&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=limbuindra&theme=blueberry&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limbuindra&theme=blueberry&hide_border=true&layout=compact)
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limbuindra&theme=github_dark)
 <!-- ---
 [![](https://visitcount.itsvg.in/api?id=limbuindra&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
