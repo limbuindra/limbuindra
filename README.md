@@ -21,7 +21,6 @@ I'm currently studying ..
 
 # 📊 GitHub Stats
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limbuindra&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=limbuindra&theme=blueberry&hide_border=true)
 
